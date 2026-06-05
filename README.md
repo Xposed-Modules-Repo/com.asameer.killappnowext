@@ -9,7 +9,7 @@ An improved, significantly optimized, and modern version of the original KillApp
 
 This release consolidates all optimized branches into a single distribution hub:
 
-### 📦 1. KillAppNow_Ext_vA13-15_Base.apk
+### 📦 1. KillAppNow_Ext_2.0_A13_15_OneUI5.x_7.x_API-Legacy89.apk
 * **Target:** Android 13, 14, 15 (OneUI 5.x - 7.x Legacy).
 * **Changelog:**
   * Lowered the API level to 33 Android 13+
@@ -21,7 +21,7 @@ This release consolidates all optimized branches into a single distribution hub:
   * ( KillAppNow_Ext_2.0_A13_15_OneUI5.x_7.x_API-Legacy89.apk )
 
 
-### 📦 2. KillAppNow_Ext_vA16_Legacy_API89.apk
+### 📦 2. KillAppNow_Ext_2.0_A16_OneUI8.x_API-Legacy89.apk
 * **Target:** Android 16 (Early / Transition vendor builds).
 * **Engine:** Legacy Xposed API 89 framework bridge.
 * **Changelog:**
@@ -34,7 +34,7 @@ This release consolidates all optimized branches into a single distribution hub:
   * ( KillAppNow_Ext_2.0_A16_OneUI8.x_API-Legacy89.apk )
 
 
-### 📦 3. KillAppNow_Ext_vA16_Modern_API101.apk
+### 📦 3. KillAppNow_Ext_2.0_A16_OneUI8.x_API-101.apk
 * **Target:** Android 16+ / OneUI 8.0+.
 * **Engine:** Modern isolated `libxposed` architecture (API 101.0.1).
 * **Changelog:**
@@ -44,8 +44,8 @@ This release consolidates all optimized branches into a single distribution hub:
   * Vibration feedback
   * And a 3-second delay before the app closes
   * Added protection on the main screen (now, when you are on the main screen and hold down the back button, the module does not kill any processes)
-  *  double vibration on the main screen as a sign that there is nothing to kill
-( KillAppNow_Ext_2.0_A16_OneUI8.x_API-101.apk )
+  * Double vibration on the main screen as a sign that there is nothing to kill
+  * ( KillAppNow_Ext_2.0_A16_OneUI8.x_API-101.apk )
 
 
 ---
@@ -58,9 +58,9 @@ If you appreciate the work put into optimizing and maintaining this project, con
 ---
 
 ## 📜 Credits & Respect
-This project is built upon the original work of the initial author (@samahmed https://github.com/samahmed/KillAppNow ). All initial ideas and core logic belong to them. This Extended version exists to keep the module alive, clean, and fully compatible with modern environments.
+This project is built upon the original work of the initial author ( @samahmed https://github.com/samahmed/KillAppNow ). All initial ideas and core logic belong to them. This Extended version exists to keep the module alive, clean, and fully compatible with modern environments.
 
-* **Original Idea & Base:** KillAppNow
+* **Original Idea & Base:** KillAppNow by ( @samahmed )
 * **Refactoring, Optimization & Maintenance:** Hargriv H-K-Systems
 
 ---
